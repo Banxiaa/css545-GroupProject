@@ -97,7 +97,8 @@ In the MVP (Minimum Viable Product) version of DailyTarot app, the goal is to im
 - Personal Setting contents a few simple settings
 
 ## UI/UX Design
-[![Markdown](https://github.com/Banxiaa/css545-GroupProject/blob/CheckPoint1/DailyTarot.png)](https://www.figma.com/design/YQS5PNpNTgdta5AhV98Tqp/DailyTarot?node-id=0-1&node-type=canvas&t=fYpt8XU4rF0TwNLy-0)
+![UI Design](https://github.com/Banxiaa/css545-GroupProject/blob/CheckPoint1/DailyTarot.png)
+[Figma Link](https://www.figma.com/design/YQS5PNpNTgdta5AhV98Tqp/DailyTarot?node-id=0-1&node-type=canvas&t=fYpt8XU4rF0TwNLy-0)
 - Navigation Bar: four options: Daily, Reading, History, Setting
 - Daily: Tap to shuffle and draw card animation, then display the interpretation of card.
 - Reading: Tap to shuffle, draw, and interpret tarot spreads
